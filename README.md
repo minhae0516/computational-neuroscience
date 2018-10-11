@@ -1,7 +1,7 @@
 # computational-neuroscience
 
 
-I summarize papers that help me understand fundamental concepts of computational neuroscience. 
+I summarize papers that I read in the beginning of my research in computational neuroscience. These papers help me understand fundamental concepts of computational neuroscience. 
 
 * Efficient coding
 1. H. Barlow, “Redundancy reduction revisited,” Network: computation in neural systems, vol. 12, no. 3, pp. 241–253, 2001.
@@ -18,9 +18,8 @@ Thought Process, no. 10, pp. 535–539, 1959.
 * Predictive coding
 1. Y.HuangandR.P.Rao,“Predictivecoding,”WileyInterdisciplinaryReviews:CognitiveScience,vol.2,no.5,pp.580–593,
 2011.
-1.[12] M. V. Srinivasan, S. B. Laughlin, and A. Dubs, “Predictive coding: a fresh view of inhibition in the retina,” Proc. R. Soc.
+1. M. V. Srinivasan, S. B. Laughlin, and A. Dubs, “Predictive coding: a fresh view of inhibition in the retina,” Proc. R. Soc.
 Lond. B, vol. 216, no. 1205, pp. 427–459, 1982.
-
 
 * Bayesian inference in brain
 1. R.V.RajuandX.Pitkow,“Inferencebyreparameterizationinneuralpopulationcodes,”inAdvancesinNeuralInformation
