@@ -1,7 +1,5 @@
 # Computational Neuroscience Summer Courses 2019
-written by Minhae Kwon (minhae.kwon@bcm.edu)
-
-The courses are ordered by application deadlines
+Written by Minhae Kwon (minhae.kwon@bcm.edu). Please contact me if you find wrong information. The courses are ordered by application deadlines
 
 ## Kavli Summer Institute in Cognitive Neuroscience
 - date: June 24 through July 5, 2019 
@@ -37,8 +35,7 @@ The courses are ordered by application deadlines
 - deadline: April 1, 2019
 - http://http://courses.washington.edu/braindyn/
 
-
-<Some lists from previous years- notice might show up soon>
+# Courses from last year, but not opened yet:
 ## CSHL — Computational Neuroscience: Vision
 - deadline: March 31, 2018
 - July 9 - 22
