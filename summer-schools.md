@@ -35,14 +35,14 @@ Written by Minhae Kwon (minhaeminhaekwon@gmail.com). Please contact me if you fi
 - deadline: April 1, 2019
 - http://http://courses.washington.edu/braindyn/
 
-# Courses from last year, but not opened yet:
+# Info from last year, but not opened yet
 ## CSHL — Computational Neuroscience: Vision
 - deadline: March 31, 2018
-- July 9 - 22
+- July 9 - 22, 2018
 - https://meetings.cshl.edu/courses.aspx?course=C-VISI&year=18
 
 ## COSMO — Computational Sensory-Motor Neuroscience
-- deadline: April 9.
+- deadline: April 9, 2018
 - July 29 - August 12, 2018, Minneapolis
 - http://www.compneurosci.com/CoSMo/
 
