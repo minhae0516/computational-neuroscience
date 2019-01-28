@@ -15,7 +15,7 @@ Written by Minhae Kwon (minhaeminhaekwon@gmail.com). Please contact me if you fi
 - https://groups.oist.jp/ocnc
 
 ## FENS — Computational Neuroscience
-- 11-31 August 2019
+- date: August 11-31, 2019
 - location: Champalimaud Centre for the Unknown, Lisbon, Portugal
 - directors: Brent Doiron (University of Pittsburgh, USA), Maria Geffen (University of Pennsylvania, USA), Jakob Macke (Technical University of Munich, Germany), Joe Paton (Champalimaud Research, Portugal)
 - deadline: March 11, 2019 (Midnight, Brussels time)
@@ -23,14 +23,14 @@ Written by Minhae Kwon (minhaeminhaekwon@gmail.com). Please contact me if you fi
 - https://www.fens.org/Training/CAJAL-programme/CAJAL-courses-2019/CCCN2019/Application-form---CCN2019/
 
 ## Marine Biology Laboratory — Methods in Computational Neuroscience
-- July 29 – August 24, 2019
+- date: July 29 – August 24, 2019
 - location: Marine Biological Laboratory in Woods Hole, MA, USA
 - director: Stephen Baccus (Stanford University), Xiao Jing Wang (New York University)
 - deadline: March 19, 2019
 - http://www.mbl.edu/mcn/
 
 ## Summer Workshop on the Dynamic Brain 2019
-- August 24 – September 8, 2019
+- date: August 24 – September 8, 2019
 - location: Friday Harbor Laboratories, WA, USA
 - deadline: April 1, 2019
 - http://http://courses.washington.edu/braindyn/
