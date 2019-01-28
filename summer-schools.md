@@ -7,12 +7,14 @@ Written by Minhae Kwon (minhaeminhaekwon@gmail.com). Please contact me if you fi
 - director: George R. Mangun, Barry Giesbrecht, Michael Miller, Michael Gazzaniga
 - deadline: January 31st, 2019, 5:00 pm Pacific Standard Time (UTC-8)
 - https://sicn.cmb.ucdavis.edu/
+- min 1 recommendation letter is required
 
 ## OCNC: OIST Computational Neuroscience Course
 - date: June 24 to July 11, 2019
 - location: Okinawa, Japan
 - deadline: February 2, 2019
 - https://groups.oist.jp/ocnc
+- no recommendation letter is required
 
 ## FENS — Computational Neuroscience
 - date: August 11-31, 2019
@@ -21,6 +23,7 @@ Written by Minhae Kwon (minhaeminhaekwon@gmail.com). Please contact me if you fi
 - deadline: March 11, 2019 (Midnight, Brussels time)
 - https://www.fens.org/Training/CAJAL-programme/CAJAL-courses-2019/
 - https://www.fens.org/Training/CAJAL-programme/CAJAL-courses-2019/CCCN2019/Application-form---CCN2019/
+- 2 recommendation letters are required
 
 ## Marine Biology Laboratory — Methods in Computational Neuroscience
 - date: July 29 – August 24, 2019
@@ -28,12 +31,13 @@ Written by Minhae Kwon (minhaeminhaekwon@gmail.com). Please contact me if you fi
 - director: Stephen Baccus (Stanford University), Xiao Jing Wang (New York University)
 - deadline: March 19, 2019
 - http://www.mbl.edu/mcn/
+- 2 recommendation letters, Graduate and Undergraduate transcripts are required
 
 ## Summer Workshop on the Dynamic Brain 2019
 - date: August 24 – September 8, 2019
 - location: Friday Harbor Laboratories, WA, USA
 - deadline: April 1, 2019
-- http://http://courses.washington.edu/braindyn/
+- http://courses.washington.edu/braindyn/
 
 # Info from last year, but not opened yet
 ## CSHL — Computational Neuroscience: Vision
