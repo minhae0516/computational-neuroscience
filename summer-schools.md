@@ -18,7 +18,7 @@ Written by Minhae Kwon (minhae.kwon@bcm.edu). Please contact me if you find wron
 - 11-31 August 2019
 - location: Champalimaud Centre for the Unknown, Lisbon, Portugal
 - directors: Brent Doiron (University of Pittsburgh, USA), Maria Geffen (University of Pennsylvania, USA), Jakob Macke (Technical University of Munich, Germany), Joe Paton (Champalimaud Research, Portugal)
-- deadline: 11 March 2019 (Midnight, Brussels time)
+- deadline: March 11, 2019 (Midnight, Brussels time)
 - https://www.fens.org/Training/CAJAL-programme/CAJAL-courses-2019/
 - https://www.fens.org/Training/CAJAL-programme/CAJAL-courses-2019/CCCN2019/Application-form---CCN2019/
 
