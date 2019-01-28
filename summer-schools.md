@@ -1,5 +1,5 @@
 # Computational Neuroscience Summer Courses 2019
-Written by Minhae Kwon (minhae.kwon@bcm.edu). Please contact me if you find wrong information. The courses are ordered by application deadlines
+Written by Minhae Kwon (minhae.kwon@bcm.edu). Please contact me if you find wrong information. The courses are ordered by application deadlines. 
 
 ## Kavli Summer Institute in Cognitive Neuroscience
 - date: June 24 through July 5, 2019 
@@ -45,3 +45,5 @@ Written by Minhae Kwon (minhae.kwon@bcm.edu). Please contact me if you find wron
 - deadline: April 9.
 - July 29 - August 12, 2018, Minneapolis
 - http://www.compneurosci.com/CoSMo/
+
+Thanks to Jaikun Fu and Xaq Pitkow for sharing the list of previous years.
