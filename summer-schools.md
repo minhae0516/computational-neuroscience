@@ -46,4 +46,4 @@ Written by Minhae Kwon (minhae.kwon@bcm.edu). Please contact me if you find wron
 - July 29 - August 12, 2018, Minneapolis
 - http://www.compneurosci.com/CoSMo/
 
-Thanks to Jaikun Fu and Xaq Pitkow for sharing the list of previous years.
+Thanks to Ms. Jaikun Fu and Prof. Xaq Pitkow for sharing the list of previous years.
