@@ -3,7 +3,7 @@ Written by Minhae Kwon (minhae.kwon@bcm.edu). Please contact me if you find wron
 
 ## Kavli Summer Institute in Cognitive Neuroscience
 - date: June 24 through July 5, 2019 
-- location: Santa Barbara, CA 
+- location: Santa Barbara, CA, USA 
 - director: George R. Mangun, Barry Giesbrecht, Michael Miller, Michael Gazzaniga
 - deadline: January 31st, 2019, 5:00 pm Pacific Standard Time (UTC-8)
 - https://sicn.cmb.ucdavis.edu/
