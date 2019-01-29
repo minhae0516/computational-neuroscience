@@ -7,7 +7,7 @@ Written by Minhae Kwon (minhaeminhaekwon A T g m a i l D O T c o m). Please cont
 - director: George R. Mangun, Barry Giesbrecht, Michael Miller, Michael Gazzaniga
 - deadline: January 31st, 2019, 5:00 pm Pacific Standard Time (UTC-8)
 - https://sicn.cmb.ucdavis.edu/
-- min 1 recommendation letter is required
+- min 1 recommendation letter is required (due Feb 7, 2019)
 
 ## OCNC: OIST Computational Neuroscience Course
 - date: June 24 to July 11, 2019
