@@ -43,6 +43,13 @@ Written by Minhae Kwon (minhaeminhaekwon A T g m a i l D O T c o m). Please cont
 - http://www.mbl.edu/mcn/
 - 2 recommendation letters, Graduate and Undergraduate transcripts are required
 
+## Brain Produces Mind by Modeling (not summer school)
+- date: May 1-4, 2019
+- location:Beckman Center, Irvine, California, USA
+- travel award deadline: March 28
+- http://www.cvent.com/events/brain-produces-mind-by-modeling/custom-20-2c1582af11414af791f15e057331a793.aspx
+- one reference letter is required
+
 ## Summer Workshop on the Dynamic Brain 2019
 - date: August 24 – September 8, 2019
 - location: Friday Harbor Laboratories, WA, USA
