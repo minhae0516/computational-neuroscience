@@ -30,6 +30,7 @@ Written by Minhae Kwon (minhaeminhaekwon A T g m a i l D O T c o m). Please cont
 - location: Champalimaud Centre for the Unknown, Lisbon, Portugal
 - directors: Brent Doiron (University of Pittsburgh, USA), Maria Geffen (University of Pennsylvania, USA), Jakob Macke (Technical University of Munich, Germany), Joe Paton (Champalimaud Research, Portugal)
 - deadline: March 11, 2019 (Midnight, Brussels time)
+- https://www.cccn.pt/overview
 - https://www.fens.org/Training/CAJAL-programme/CAJAL-courses-2019/
 - https://www.fens.org/Training/CAJAL-programme/CAJAL-courses-2019/CCCN2019/Application-form---CCN2019/
 - 2 recommendation letters are required
