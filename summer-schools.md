@@ -16,6 +16,15 @@ Written by Minhae Kwon (minhaeminhaekwon A T g m a i l D O T c o m). Please cont
 - https://groups.oist.jp/ocnc
 - no recommendation letter is required
 
+## Cold Spring Harbor Asia
+- date: June 30-July 20, 2019
+- location: Suzhou, China 
+- directors: Xiao-Jing Wang (New York University), Dora Angelaki (New York University), Christopher Honey (Johns Hopkins University), Robert Guangyu Yang (Columbia University)
+- deadline: March 8, 2019
+- http://www.csh-asia.org/2019meetings/S-COSYNE.html
+- http://www.csh-asia.org/2019meetings/summerschool_COSYNEinstruct.html
+- 2 recommendation letters are required, list of related course with grades should be submitted
+
 ## FENS — Computational Neuroscience
 - date: August 11-31, 2019
 - location: Champalimaud Centre for the Unknown, Lisbon, Portugal
@@ -38,6 +47,7 @@ Written by Minhae Kwon (minhaeminhaekwon A T g m a i l D O T c o m). Please cont
 - location: Friday Harbor Laboratories, WA, USA
 - deadline: April 1, 2019
 - http://courses.washington.edu/braindyn/
+- 2 recommendation letters are required
 
 # Info from last year, but not opened yet
 ## CSHL — Computational Neuroscience: Vision
