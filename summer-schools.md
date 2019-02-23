@@ -16,15 +16,6 @@ Written by Minhae Kwon (minhaeminhaekwon A T g m a i l D O T c o m). Please cont
 - https://groups.oist.jp/ocnc
 - no recommendation letter is required
 
-## Cold Spring Harbor Asia
-- date: June 30-July 20, 2019
-- location: Suzhou, China 
-- directors: Xiao-Jing Wang (New York University), Dora Angelaki (New York University), Christopher Honey (Johns Hopkins University), Robert Guangyu Yang (Columbia University)
-- deadline: March 8, 2019
-- http://www.csh-asia.org/2019meetings/S-COSYNE.html
-- http://www.csh-asia.org/2019meetings/summerschool_COSYNEinstruct.html
-- 2 recommendation letters are required, list of related course with grades should be submitted
-
 ## FENS — Computational Neuroscience
 - date: August 11-31, 2019
 - location: Champalimaud Centre for the Unknown, Lisbon, Portugal
@@ -34,14 +25,6 @@ Written by Minhae Kwon (minhaeminhaekwon A T g m a i l D O T c o m). Please cont
 - https://www.fens.org/Training/CAJAL-programme/CAJAL-courses-2019/
 - https://www.fens.org/Training/CAJAL-programme/CAJAL-courses-2019/CCCN2019/Application-form---CCN2019/
 - 2 recommendation letters are required
-
-## Marine Biology Laboratory — Methods in Computational Neuroscience
-- date: July 29 – August 24, 2019
-- location: Marine Biological Laboratory in Woods Hole, MA, USA
-- director: Stephen Baccus (Stanford University), Xiao Jing Wang (New York University)
-- deadline: March 19, 2019
-- http://www.mbl.edu/mcn/
-- 2 recommendation letters, Graduate and Undergraduate transcripts are required
 
 ## Brain Produces Mind by Modeling (not summer school)
 - date: May 1-4, 2019
@@ -56,6 +39,25 @@ Written by Minhae Kwon (minhaeminhaekwon A T g m a i l D O T c o m). Please cont
 - deadline: April 1, 2019
 - http://courses.washington.edu/braindyn/
 - 2 recommendation letters are required
+
+================================
+
+## Cold Spring Harbor Asia
+- date: June 30-July 20, 2019
+- location: Suzhou, China 
+- directors: Xiao-Jing Wang (New York University), Dora Angelaki (New York University), Christopher Honey (Johns Hopkins University), Robert Guangyu Yang (Columbia University)
+- deadline: March 8, 2019
+- http://www.csh-asia.org/2019meetings/S-COSYNE.html
+- http://www.csh-asia.org/2019meetings/summerschool_COSYNEinstruct.html
+- 2 recommendation letters are required, list of related course with grades should be submitted
+
+## Marine Biology Laboratory — Methods in Computational Neuroscience
+- date: July 29 – August 24, 2019
+- location: Marine Biological Laboratory in Woods Hole, MA, USA
+- director: Stephen Baccus (Stanford University), Xiao Jing Wang (New York University)
+- deadline: March 19, 2019
+- http://www.mbl.edu/mcn/
+- 2 recommendation letters, Graduate and Undergraduate transcripts are required
 
 # Info from last year, but not opened yet
 ## CSHL — Computational Neuroscience: Vision
