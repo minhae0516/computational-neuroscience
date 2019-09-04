@@ -14,7 +14,7 @@ When we say the neural computation cost, there are multiple approaches to explai
 
 1) **physical energy consumption**, e.g., the number of spikes in the population of neurons
 
-2) **conceptual distance**, e.g., behavior habit requires less amount of brain energy to come up with your decision. 
+2) **conceptual distance**, e.g., behavior habit requires less amount of brain energy to come up with the decision. 
 (Minhae's question: Can we connect this to predictive coding?)
 - [Anderson, John R. "Is human cognition adaptive?." Behavioral and Brain Sciences 14.3 (1991): 471-485.](http://act-r.psy.cmu.edu/wordpress/wp-content/uploads/2013/09/Anderson91.pdf)
 - Tom Griffths (Princeton Univ, Psychology Dep.): https://psych.princeton.edu/person/tom-griffiths
