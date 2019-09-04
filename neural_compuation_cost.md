@@ -4,7 +4,7 @@ We have a broad idea regarding resource-constrained control which includes neura
 The easiest example is to include neural computation cost in utility function as a cost term in the frame of reinforcement learning.
 There are a lot of researches that includes behavior action cost in reinforcement learning framework such that 
 the optimal action is determined in thea way jointly to maximize the reward and to minimize the action cost. 
-However, we do not see any works that includes neural computation cost in reinforcement learning.
+However, we do not see any works that include neural computation cost in reinforcement learning.
 
 
 We hypothesize that when the brain makes a decision, 
