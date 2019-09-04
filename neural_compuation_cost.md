@@ -10,7 +10,7 @@ However, we do not see any works that includes neural computation cost in reinfo
 We hypothesize that when the brain makes a decision, 
 it comes up with the action not only that maximizes the long-term cumulative reward
 but it also minimizes neural computation cost in order to increase energy efficiency in brain. 
-When we say the neural computation cost, there are multiple approaches to consider it:
+When we say the neural computation cost, there are multiple approaches to explain it:
 
 1) **physical energy consumption**, e.g., the number of spikes in the population of neurons
 
@@ -20,8 +20,7 @@ When we say the neural computation cost, there are multiple approaches to consid
 - Tom Griffths (Princeton Univ, Psychology Dep.): https://psych.princeton.edu/person/tom-griffiths
     - [Lieder, Falk, and Thomas L. Griffiths. "Resource-rational analysis: understanding human cognition as the optimal use of limited computational resources." Behavioral and Brain Sciences (2019): 1-85.](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/resourcerational-analysis-understanding-human-cognition-as-the-optimal-use-of-limited-computational-resources/586866D9AD1D1EA7A1EECE217D392F4A)
 - Mehdi Keramati (City Univ. of London, Psychology Dep.): https://www.city.ac.uk/people/academics/mehdi-keramati#profile=publications
-    - [Adaptive integration of habits into depth limited planning defines a habitual goal–directed spectrum
-Keramati, Mehdi, et al. "Adaptive integration of habits into depth-limited planning defines a habitual-goal–directed spectrum." Proceedings of the National Academy of Sciences 113.45 (2016): 12868-12873.](https://www.pnas.org/content/113/45/12868)
+    - [Keramati, M., Smittenaar, P., Dolan, R. J., & Dayan, P. (2016). Adaptive integration of habits into depth-limited planning defines a habitual-goal–directed spectrum. Proceedings of the National Academy of Sciences, 113(45), 12868-12873.](https://www.pnas.org/content/113/45/12868)
 3) **the depth of thinking**, e.g., how many rollouts do you compute in Monte Carlos Planning
 
 I've been talking about this topic with many computational neuroscientists and there are a variety of views for it:
