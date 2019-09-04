@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e81236a5-902c-4787-ac7f-0e44f41bb6b7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/neural_compuation_cost" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural_compuation_cost.md" beforeDir="false" afterPath="$PROJECT_DIR$/neural_compuation_cost.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,8 +80,8 @@
         <entry file="file://$PROJECT_DIR$/neural_compuation_cost.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="405">
-                <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+              <first_editor relative-caret-position="300">
+                <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
               </first_editor>
               <second_editor />
             </state>
@@ -215,8 +215,8 @@
     <entry file="file://$PROJECT_DIR$/neural_compuation_cost.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="405">
-            <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          <first_editor relative-caret-position="300">
+            <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
           </first_editor>
           <second_editor />
         </state>

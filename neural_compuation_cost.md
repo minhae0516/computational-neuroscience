@@ -16,9 +16,9 @@ When we say the neural computation cost, there are multiple approaches to consid
 2) **conceptual distance**, e.g., behavior habit requires less amount of brain energy to come up with your decision. 
 (Minhae's question: Can we connect this to predictive coding?)
 - [Anderson, John R. "Is human cognition adaptive?." Behavioral and Brain Sciences 14.3 (1991): 471-485.](http://act-r.psy.cmu.edu/wordpress/wp-content/uploads/2013/09/Anderson91.pdf)
-- Tom Griffths (Princeton Univ, Psychology Depart.): https://psych.princeton.edu/person/tom-griffiths
+- Tom Griffths (Princeton Univ, Psychology Dep.): https://psych.princeton.edu/person/tom-griffiths
     - [Lieder, Falk, and Thomas L. Griffiths. "Resource-rational analysis: understanding human cognition as the optimal use of limited computational resources." Behavioral and Brain Sciences (2019): 1-85.](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/resourcerational-analysis-understanding-human-cognition-as-the-optimal-use-of-limited-computational-resources/586866D9AD1D1EA7A1EECE217D392F4A)
-- Mehdi Keramati (City Univ. of London, Psychology Depart.): https://www.city.ac.uk/people/academics/mehdi-keramati#profile=publications
+- Mehdi Keramati (City Univ. of London, Psychology Dep.): https://www.city.ac.uk/people/academics/mehdi-keramati#profile=publications
     - [Adaptive integration of habits into depth limited planning defines a habitual goal–directed spectrum
 Keramati, Mehdi, et al. "Adaptive integration of habits into depth-limited planning defines a habitual-goal–directed spectrum." Proceedings of the National Academy of Sciences 113.45 (2016): 12868-12873.](https://www.pnas.org/content/113/45/12868)
 3) **the depth of thinking**, e.g., how many rollouts do you compute in Monte Carlos Planning
