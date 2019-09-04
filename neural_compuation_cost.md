@@ -1,6 +1,6 @@
 # Neural computation cost
 
-We have a general idea regarding resource-constrained control which includes neural computation cost in control theory. 
+We have a broad idea regarding resource-constrained control which includes neural computation cost in control theory. 
 The easiest example is to include neural computation cost in utility function as a cost term in the frame of reinforcement learning.
 There are a lot of researches that includes behavior action cost in reinforcement learning framework such that 
 the optimal action is determined in thea way jointly to maximize the reward and to minimize the action cost. 
